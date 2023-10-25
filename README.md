@@ -1,2 +1,2 @@
-# My-Power-Bi-Projects
-All DAX related reports.
+# Power-Bi-Projects
+
